@@ -3,6 +3,8 @@
     "references": [
         "Mischief.MDV.Runtime"
     ],
-    "includePlatforms": [],
+    "includePlatforms": [
+        "Editor"
+    ],
     "excludePlatforms": []
 }
